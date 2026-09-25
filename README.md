@@ -9,15 +9,6 @@ inviável os gestores memorizarem todos os brinquedos em estoque, sua quantidade
 essas coisas.
 
 # Como fazer funcionar?
-Neste repositório do GitHub, já há um ambiente virtual criado com o Flet instalado (Versão 1.0.0), o qual pode ser ativado
-com o comando a seguir:
-```sh
-.venv/Scripts/Activate.ps1
-```
-
-Entretanto, se houver um erro ou motivo para não usá-lo, crie um novo e instale o flet com as instruções relacionadas, a
-seguir:
-
 ## Crie um ambiente virtual.
 Crie e ative um ambiente virtual antes das outras etapas com os comandos a seguir (se estiver no Windows)
 ```sh
@@ -62,4 +53,4 @@ estão no arquivo *controles_personalizados.py*.
 - Funções de evento invocadas por controles também estão no arquivo *main.py*
 
 # Prova de autoria.
-Este é o link para o drive onde estão os vídeos de mim programando o sistema: [](https://drive.google.com/drive/folders/1qXMz_Too0sSyomOS7yG4x2ceW-HhD_kP?usp=sharing).
+Este é o link para o drive onde estão os vídeos de mim programando o sistema: [ir para o drive](https://drive.google.com/drive/folders/1qXMz_Too0sSyomOS7yG4x2ceW-HhD_kP?usp=sharing).
